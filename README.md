@@ -1,4 +1,6 @@
 # ATSAST_Blog
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZsgsDesign%2FATSAST_Blog.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZsgsDesign%2FATSAST_Blog?ref=badge_shield)
+
 Blog for ATSAST
 
 ## NOTICE
@@ -52,3 +54,7 @@ https://blog.winter.mundb.xyz
 ## 其他注意事项
 
 因项目为ATSAST源码一部分，项目协议转为AGPL。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZsgsDesign%2FATSAST_Blog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZsgsDesign%2FATSAST_Blog?ref=badge_large)
